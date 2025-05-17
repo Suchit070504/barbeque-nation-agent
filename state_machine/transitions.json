@@ -1,0 +1,12 @@
+[
+  {
+    "current_state": "Greeting",
+    "intent": "make_booking",
+    "next_state": "Collect_City"
+  },
+  {
+    "current_state": "Collect_City",
+    "intent": "provide_city",
+    "next_state": "Collect_Contact"
+  }
+]
