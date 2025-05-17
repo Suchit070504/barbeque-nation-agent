@@ -1,0 +1,11 @@
+{
+  "Delhi": {
+    "Connaught Place": {
+      "timings": "12 PM to 3 PM and 6 PM to 11 PM",
+      "faq": {
+        "Is veg food available?": "Yes, veg buffet is available.",
+        "Do you serve alcohol?": "Yes, at select outlets."
+      }
+    }
+  }
+}

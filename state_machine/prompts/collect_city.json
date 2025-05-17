@@ -1,0 +1,5 @@
+{
+  "state": "Collect_City",
+  "instruction": "Please tell me the city or location you are interested in booking.",
+  "expected_entities": ["city", "location"]
+}

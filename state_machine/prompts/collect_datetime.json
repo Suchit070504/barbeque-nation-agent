@@ -1,0 +1,5 @@
+{
+  "state": "Collect_DateTime",
+  "instruction": "For what date and time would you like to book your table?",
+  "expected_entities": ["date", "time"]
+}

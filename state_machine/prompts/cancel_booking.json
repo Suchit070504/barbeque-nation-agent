@@ -1,0 +1,5 @@
+{
+  "state": "Cancel_Booking",
+  "instruction": "Which booking do you want to cancel? Please provide the booking ID or details.",
+  "expected_entities": ["booking_id"]
+}

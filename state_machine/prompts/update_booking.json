@@ -1,0 +1,5 @@
+{
+  "state": "Update_Booking",
+  "instruction": "Which booking would you like to update? Please provide details or booking ID.",
+  "expected_entities": ["booking_id", "update_details"]
+}

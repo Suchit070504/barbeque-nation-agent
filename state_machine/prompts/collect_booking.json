@@ -1,0 +1,5 @@
+{
+  "state": "Confirm_Booking",
+  "instruction": "Here is your booking summary: [show booking info here]. Shall I confirm?",
+  "expected_entities": ["confirmation"]
+}
