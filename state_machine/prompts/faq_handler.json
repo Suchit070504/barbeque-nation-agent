@@ -1,0 +1,5 @@
+{
+  "state": "FAQ_Handler",
+  "instruction": "What would you like to know? You can ask about buffet options, timings, location amenities, etc.",
+  "expected_entities": ["question"]
+}

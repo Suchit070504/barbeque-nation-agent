@@ -1,0 +1,5 @@
+{
+  "state": "Collect_Contact",
+  "instruction": "What is your contact number?",
+  "expected_entities": ["contact_number"]
+}
